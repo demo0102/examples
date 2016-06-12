@@ -27,9 +27,9 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../lib/kicad
+LibDir=lib/kicad
 [eeschema/libraries]
-LibName1=wa
+LibName1=wa-gost
 [schematic_editor]
 version=1
 PageLayoutDescrFile=

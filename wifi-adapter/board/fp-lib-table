@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name spectrum)(type KiCad)(uri ${KIPRJMOD}/../lib/kicad/spectrum.pretty)(options "")(descr ""))
+  (lib (name wa)(type KiCad)(uri ${KIPRJMOD}/../lib/kicad/wa.pretty)(options "")(descr ""))
 )

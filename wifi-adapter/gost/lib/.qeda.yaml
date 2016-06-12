@@ -1,8 +1,12 @@
 config:
   pattern:
-    densityLevel: M
     clearance:
       padToMask: 0.1
+    densityLevel: M
+  symbol:
+    style: GOST
+ground:
+  - GND
 library:
   - espressif/esp-07
   - capacitor/c0603
@@ -14,5 +18,3 @@ library:
 power:
   - +5V
   - +3V3
-ground:
-  - signal/GND

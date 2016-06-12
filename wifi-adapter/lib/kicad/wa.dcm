@@ -1,0 +1,51 @@
+EESchema-DOCLIB Version 2.0 Date: 12/06/2016 09:58:31
+#
+$CMP ESP-07
+D ESP8266EX Based Wi-Fi Module
+K IC, digital, converter
+$ENDCMP
+#
+$CMP C0603
+D Chip capacitor 1.6x0.8 mm
+K capacitor
+$ENDCMP
+#
+$CMP C1210
+D Chip capacitor 3.2x2.5 mm
+K capacitor
+$ENDCMP
+#
+$CMP R0603
+D Chip resistor 1.6x0.8 mm
+K resistor, 1/10W
+$ENDCMP
+#
+$CMP TP-TH-1
+D Through-hole Test Point, 1 mm diameter hole
+K test point
+$ENDCMP
+#
+$CMP LM1117MPX
+D 800-mA Low-Dropout Linear Regulator
+K IC, analog, LDO, regulator
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP DF13A-6P-1.25H
+D 1.25mm Pitch Miniature Crimping Connector
+K connector, male
+$ENDCMP
+#
+$CMP +5V
+D Power Symbol
+$ENDCMP
+#
+$CMP +3V3
+D Power Symbol
+$ENDCMP
+#
+$CMP GND
+D Signal Ground Symbol
+$ENDCMP
+#
+# End Doc Library
