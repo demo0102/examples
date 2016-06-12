@@ -1,0 +1,17 @@
+config:
+  pattern:
+    densityLevel: M
+    clearance:
+        padToMask: 0.1
+library:
+  - espressif/esp-07
+  - capacitor/c0603
+  - capacitor/c1210
+  - resistor/r0603
+  - misc/tp-th-1
+  - ti/lm1117mpx
+  - hirose/df13a-6p-1.25h
+power:
+  - +5V
+  - +3V3
+  - GND
