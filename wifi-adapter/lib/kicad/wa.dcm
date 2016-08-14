@@ -1,28 +1,33 @@
-EESchema-DOCLIB Version 2.0 Date: 12/06/2016 09:58:31
+EESchema-DOCLIB Version 2.0 Date: 14/08/2016 01:14:48
 #
 $CMP ESP-07
 D ESP8266EX Based Wi-Fi Module
 K IC, digital, converter
+F 
 $ENDCMP
 #
 $CMP C0603
 D Chip capacitor 1.6x0.8 mm
 K capacitor
+F 
 $ENDCMP
 #
 $CMP C1210
 D Chip capacitor 3.2x2.5 mm
 K capacitor
+F 
 $ENDCMP
 #
 $CMP R0603
 D Chip resistor 1.6x0.8 mm
 K resistor, 1/10W
+F 
 $ENDCMP
 #
 $CMP TP-TH-1
 D Through-hole Test Point, 1 mm diameter hole
 K test point
+F 
 $ENDCMP
 #
 $CMP LM1117MPX
@@ -34,18 +39,22 @@ $ENDCMP
 $CMP DF13A-6P-1.25H
 D 1.25mm Pitch Miniature Crimping Connector
 K connector, male
+F 
 $ENDCMP
 #
 $CMP +5V
 D Power Symbol
+F 
 $ENDCMP
 #
 $CMP +3V3
 D Power Symbol
+F 
 $ENDCMP
 #
 $CMP GND
 D Signal Ground Symbol
+F 
 $ENDCMP
 #
 # End Doc Library

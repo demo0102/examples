@@ -1,8 +1,16 @@
 config:
   pattern:
-    densityLevel: M
     clearance:
+      leadToPad: 0.5
       padToMask: 0.1
+      padToPad: 0.2
+    densityLevel: M
+    minimum:
+      drillDiameter: 0.4
+      ringWidth: 0.2
+    preferManufacturer: 'true'
+ground:
+  - signal/GND
 library:
   - espressif/esp-07
   - capacitor/c0603
@@ -14,5 +22,3 @@ library:
 power:
   - +5V
   - +3V3
-ground:
-  - signal/GND
