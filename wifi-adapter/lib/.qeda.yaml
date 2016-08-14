@@ -1,13 +1,13 @@
 config:
   pattern:
     clearance:
-      leadToPad: 0.5
       padToMask: 0.1
       padToPad: 0.2
     densityLevel: M
     minimum:
       drillDiameter: 0.4
       ringWidth: 0.2
+      spaceForIron: 0.5
     preferManufacturer: 'true'
 ground:
   - signal/GND
