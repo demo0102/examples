@@ -1,4 +1,4 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.3+e1-6302~38~ubuntu16.04.1-stable)
+(kicad_pcb (version 4) (host pcbnew "(2015-10-14 BZR 6269)-product")
 
   (general
     (links 30)
@@ -33,7 +33,7 @@
     (46 B.CrtYd user)
     (47 F.CrtYd user)
     (48 B.Fab user hide)
-    (49 F.Fab user hide)
+    (49 F.Fab user)
   )
 
   (setup
@@ -322,7 +322,7 @@
     (fp_text reference R3 (at 0.1 -2.1) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.12)))
     )
-    (fp_text value [NA] (at 0 0 90) (layer F.Fab)
+    (fp_text value DNP (at 0 0 90) (layer F.Fab)
       (effects (font (size 0.528 0.528) (thickness 0.1)))
     )
     (fp_line (start -0.81 -0.86) (end -0.81 0.86) (layer F.SilkS) (width 0.12))
@@ -394,7 +394,7 @@
     (fp_text reference R5 (at 1.5 0.2 270) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.12)))
     )
-    (fp_text value [NA] (at 0 0 270) (layer F.Fab)
+    (fp_text value DNP (at 0 0 270) (layer F.Fab)
       (effects (font (size 0.528 0.528) (thickness 0.1)))
     )
     (fp_line (start -0.81 -0.86) (end -0.81 0.86) (layer F.SilkS) (width 0.12))
@@ -430,7 +430,7 @@
     (fp_text reference R6 (at -0.9 1.963 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.12)))
     )
-    (fp_text value [NA] (at 0 0 270) (layer F.Fab)
+    (fp_text value DNP (at 0 0 270) (layer F.Fab)
       (effects (font (size 0.528 0.528) (thickness 0.1)))
     )
     (fp_line (start -0.81 -0.86) (end -0.81 0.86) (layer F.SilkS) (width 0.12))
@@ -466,7 +466,7 @@
     (fp_text reference R7 (at 1.6 0.037 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.12)))
     )
-    (fp_text value [NA] (at 0 0 90) (layer F.Fab)
+    (fp_text value DNP (at 0 0 90) (layer F.Fab)
       (effects (font (size 0.528 0.528) (thickness 0.1)))
     )
     (fp_line (start -0.81 -0.86) (end -0.81 0.86) (layer F.SilkS) (width 0.12))
